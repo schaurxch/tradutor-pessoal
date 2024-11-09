@@ -1,8 +1,10 @@
-# React + Vite
+# Projeto Tradutor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Projeto inspirado no vídeo do canal <a href="https://www.youtube.com/@canaldevclub">DevClub | Programação</a>
+- Projeto feito utilizando as seguintes tecnologias:
+  - React : <a href="https://react.dev/">acesse aqui</a>
+    - React Hooks ( useState, useEffect ): <a href="https://react.dev/reference/react/hooks">acesse aqui</a>
+  - Tailwind CSS: <a href="https://tailwindcss.com/">acesse aqui</a>
+  - MyMemory API : <a href="https://mymemory.translated.net/doc/spec.php">acesse aqui</a>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Feito por Pedro Schaurich Maia, 2024.
